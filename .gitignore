@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+cmake-build-debug/
+dist
+vs
+dist*
+cabal-dev
+*.prof
+*.aux
+*.hp
+*.eventlog
+
+.idea/
+*.iml
+*.log
